@@ -7,6 +7,6 @@ let sum=$x+$y
 echo "$sum"
 
         #or
- echo "muliplication is $(( $x*$y ))
+ echo "muliplication is $(( $x*$y )) "
 
 echo " substraction is $(( $x-$y ))"
